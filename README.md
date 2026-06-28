@@ -129,5 +129,5 @@ This project proves how machine learning can support education and decision-maki
 ---
 
 ## 🧑‍💻 Author
-**Arun Banoth**  
-B.Tech CSE, NIT Patna
+** Mahesh Banoth**  
+   B.Tech 
